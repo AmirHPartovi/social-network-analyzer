@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import io
 import tempfile
 
-st.set_page_config(page_title="Social Graph Analyzer", layout="wide")
+st.set_page_config(page_title="Social Graph Analyzer")
 st.title("📊 Social Graph Network Analyzer")
 st.write(
     "Upload your social network graph files (edge list format) to analyze various metrics and visualize the graphs.")
